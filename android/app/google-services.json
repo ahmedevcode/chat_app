@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526787315268",
+    "project_id": "chataps",
+    "storage_bucket": "chataps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526787315268:android:7714fe0a5dcd307d5fde11",
+        "android_client_info": {
+          "package_name": "com.example.chat_aps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSAD7luHbNzfw1sR7o-pd4Tpvde8l_LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
